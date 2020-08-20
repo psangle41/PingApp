@@ -1,1 +1,1 @@
-# PingApp
+# Ping app screens
